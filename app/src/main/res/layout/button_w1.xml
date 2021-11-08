@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Assignment #2: Add Button view and follow the steps in the document -->
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="#CA6060"
+    android:drawableLeft="@drawable/ic_airplane_landing_black_48dp"
+    android:text="THIIIIS"
+    android:textColor="#263238" />
