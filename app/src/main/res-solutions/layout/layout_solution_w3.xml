@@ -11,8 +11,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="@dimen/space_2x"
-    android:background="@color/colorBackgroundContainer"
-    tools:context=".MainActivity">
+    android:background="@color/colorBackgroundContainer">
 
     <TextView
         android:id="@+id/tvBoxOne"
